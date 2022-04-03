@@ -1,0 +1,20 @@
+{
+    "usuarioClienteRegistro" :{
+        "nombre" : "Gloria Enith Lopez Aguirre",
+        "edad" : 31,
+        "telefono" : "3205416363",
+        "direccion" : "San vicente calle 62",
+        "correo" : "gloriaE@gmail.com",
+        "contrasena":"159263263",
+        "rol" : true
+    },
+    "usuarioHacedorRegistro" :{
+        "nombre" : "James Arboledad Aguirre",
+        "edad" : 29,
+        "telefono" : "3205416363",
+        "direccion" : "San vicente calle 62",
+        "correo" : "arboledad@gmail.com",
+        "contrasena":"987987987",
+        "rol" : false
+    }
+}

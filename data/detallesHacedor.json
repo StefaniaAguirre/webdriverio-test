@@ -1,0 +1,17 @@
+{
+    "detalleHacedor1" : {
+        "idHabilidad": 5,
+        "precio": 214000,
+        "radio": "Armenia"
+    },
+    "detalleHacedor2" : {
+        "idHabilidad": 2,
+        "precio": 45800,
+        "radio": "Norte de armenia"
+    },  
+    "detalleHacedor3" : {
+        "idHabilidad": 8,
+        "precio": 123200,
+        "radio": "Centro de Armenia"
+    }
+}

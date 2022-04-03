@@ -1,0 +1,17 @@
+{
+    "usuarioCliente" : {
+        "correo": "jfelipeth@gmail.com",
+        "contrasena": "96966969",
+        "rol": "Cliente"
+    },
+    "usuarioCliente2" : {
+        "correo": "mauricio@gmail.com",
+        "contrasena": "12345678",
+        "rol": "Cliente"
+    },
+    "usuarioHacedor" :{
+        "correo": "saguirrel@gmail.com",
+        "contrasena": "15915915",
+        "rol": "Hacedor"
+    }
+}

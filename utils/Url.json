@@ -1,0 +1,5 @@
+{
+    "BASE_UTIL": "http://localhost:3000/login",
+    "BASE_URL_REGISTRO": "http://localhost:3000/registro",
+    "BASE_URL_DETALLE": "http://localhost:3000/perfilHacedor"
+}

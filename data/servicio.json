@@ -1,0 +1,33 @@
+{
+    "servicios1" :{
+        "idtareaServicio": 1,
+        "cantidad":1,
+        "descripcion": "Cuidado de un perro labrador con 3 años de edad, que tiene dificutades para caminar",
+        "precio":150000
+    },
+    "servicios2" :{
+        "idtareaServicio": 2,
+        "cantidad":1,
+        "descripcion": "Arreglo completo de un apartamento en un 5 piso, tiene 3 habitaciones y dos baños",
+        "precio":165800
+    },
+    "servicios3" :{
+        "idtareaServicio": 3,
+        "cantidad":1,
+        "descripcion": "Cuidado de un perro labrador con 3 años de edad, que tiene dificutades para caminar",
+        "precio":150000
+    },
+
+    "estadoOferta":{
+        "posicion":3,
+        "opcion":"Aceptar"
+    },
+    "estadoOferta1":{
+        "posicion":4,
+        "opcion":"Rechazar"
+    },
+    "estadoOferta2":{
+        "posicion":5,
+        "opcion":"Aceptar"
+    }
+}
